@@ -1,0 +1,2 @@
+aloam_velodyne
+-DCATKIN_DEVEL_PREFIX=/home/wupeng/roslearn/aloam/devel -DCMAKE_INSTALL_PREFIX=/home/wupeng/roslearn/aloam/install -G Unix Makefiles
